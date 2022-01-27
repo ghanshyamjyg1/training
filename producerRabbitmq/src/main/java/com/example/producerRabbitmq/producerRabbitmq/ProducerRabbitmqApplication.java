@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ProducerRabbitmqApplication {
-
+//nsdnjksn
 	public static void main(String[] args) {
 		SpringApplication.run(ProducerRabbitmqApplication.class, args);
 	}
